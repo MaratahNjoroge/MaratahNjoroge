@@ -5,5 +5,3 @@
 **Check out links below** to know **[more](https://github.com/MaratahNjoroge/MaratahNjoroge/blob/master/ABOUT.md)** about me:
 
 **Say Hi on Twitter([@MaratahNjoroge](https://twitter.com/MaratahNjoroge))!** :heart: 💬
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/MaratahNjoroge?style=social)](https://twitter.com/MaratahNjoroge)
